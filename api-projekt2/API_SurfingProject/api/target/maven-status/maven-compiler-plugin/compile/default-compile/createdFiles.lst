@@ -1,0 +1,9 @@
+com\surfer\request\UpdateBeachRequest.class
+com\surfer\Entities\Beach.class
+com\surfer\Entities\Weather.class
+com\surfer\repositories\BeachRepository.class
+com\surfer\services\BeachService.class
+com\surfer\controllers\BeachController.class
+com\surfer\api\Application.class
+com\surfer\repositories\BeachSqlRepository.class
+com\surfer\request\AddBeachRequest.class
